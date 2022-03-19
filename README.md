@@ -1,2 +1,2 @@
 # telugu-skill-hub-demo
-testing repo
+testing repo telugu skill hub
